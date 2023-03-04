@@ -6,7 +6,10 @@ Android Studio Project
 ### **Activity 2**
 > Click a Button, RadioButton or ComboBox, then display a image on imageView
 <br>
+
+### **Download**
+> **To download the APK file, click [here](https://github.com/emmanpbarrameda/SecondActivity_AppDev/raw/main/BugRangers_AppDev_Act2-Apk.apk).**
 <br>
 <br>
-Last updated: {{ site.github.last_updated }} <br>
+Last updated: {{ https://github.com/emmanpbarrameda/SecondActivity_AppDev.last_updated }} <br>
 *by emmanpbarrameda*
