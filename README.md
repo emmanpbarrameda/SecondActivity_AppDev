@@ -11,5 +11,5 @@ Android Studio Project
 > **To download the APK file, click [here](https://github.com/emmanpbarrameda/SecondActivity_AppDev/raw/main/BugRangers_AppDev_Act2-Apk.apk).**
 <br>
 <br>
-Last updated: 030323 <br>
+Last updated: {{ emmanpbarrameda/SecondActivity_AppDev.last_updated }} <br>
 *by emmanpbarrameda*
