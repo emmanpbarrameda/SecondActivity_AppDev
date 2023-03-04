@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Second Act AppDev</string>
+
+    <string-array name="Members">
+        <item></item>
+        <item>NONE</item>
+        <item>EMMAN</item>
+        <item>ION</item>
+        <item>ISAIAH</item>
+        <item>TRISHIA</item>
+        <item>JUSTIN</item>
+    </string-array>
+
+</resources>
