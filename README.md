@@ -15,6 +15,12 @@ Android Studio Project
 <img src="https://github.com/emmanpbarrameda/SecondActivity_AppDev/blob/main/act2_preview.gif" width="360" height="820">
 <br>
 
+### **Contributors**
+- Emman P. Barrameda
+- Justin Ion Conde
+- Isaiah Reniel De Mesa
+- Trishia Coronel Raymundo
+- Justin Paul Ellorig
 <br>
-Last updated: 030323
-*by emmanpbarrameda*
+
+***Last updated: 030423 by [@emmanpbarrameda](https://github.com/emmanpbarrameda)***
